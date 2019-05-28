@@ -1,7 +1,7 @@
 //including out library iostream with a directive include
 #include<iostream>
 
-//declaring out class SayHelloWorld
+//declaring our class SayHelloWorld
 class SayHelloWorld{
 //declare our function that will show on the screen Hello World
 public:
